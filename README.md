@@ -10,4 +10,5 @@ Files included:
 1. KNN - Decision Boundary: created function to plot decision boundary using pcolormesh and np.meshgrid
 2. KNN - MLXTEND: using MLXTEND to plot decision regions
 3. KNN - CrossVal: use k-fold cross validation method to find K
-4. KNN - RandomSearch: Implement RandomSearchCV with k fold cross validation on KNN from scratch
+4. KNN - RandomSearchCV: Implement RandomSearchCV with k fold cross validation on KNN from scratch
+5. KNN - GridSearchCV: Implement GridSearchCV with k fold cross validation on KNN from scratch
